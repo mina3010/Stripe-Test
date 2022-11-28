@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stripe Test</string>
+
+    <string name="pay">Pay</string>
+    <string name="transaction_amount">Transaction Amount in USD</string>
+    <string name="pay_with_credit_card">Pay with Credit Card</string>
+</resources>
